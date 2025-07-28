@@ -12,6 +12,7 @@
   "dependencies": {
     "@stripe/stripe-js": "^7.6.1",
     "axios": "^1.11.0",
+    "e-commerce-store": "file:..",
     "eslint-plugin-react": "^7.37.5",
     "framer-motion": "^12.23.11",
     "lucide-react": "^0.530.0",
