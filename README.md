@@ -41,6 +41,19 @@ Users can browse products, add to cart, apply coupon codes, and securely checkou
 - ⚡ Redis caching
 - 📦 Product & category CRUD
 
+## 💳 Test Payment Details (Stripe)
+
+Use this card to simulate successful payments:
+
+```
+Card Number: 4242 4242 4242 4242
+Expiry Date: Any future date (e.g., 12/34)
+CVC: Any 3-digit code (e.g., 123)
+ZIP: Any 5-digit value (e.g., 10001)
+```
+
+> ✅ Stripe is in test mode — no actual charges are made.
+
 ## 🧪 Environment Setup
 
 Create a `.env` file in the `backend/` folder:
